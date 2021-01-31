@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(19, 161, 114);
+}
+h1 {
+  color: aliceblue;
+  margin-left: 14rem;
+  font-family: Georgia;
+  font-size: 5rem;
+  text-shadow: 5rem;
+}
+
+div {
+  background-color: aliceblue;
+  height: 400px;
+  width: 300px;
+  border-radius: 50px;
+  margin-top: 8rem;
+  margin-left: 35rem;
+}
+
+.listElement {
+  list-style: none;
+  text-emphasis-style: none;
+  padding-top: 2rem;
+  margin-left: 4rem;
+  font-family: fantasy;
+  font-size: 2rem;
+  color: rgb(19, 161, 114);
+}
+
+#onebutton {
+  background-color: aliceblue;
+  border-color: rgb(19, 161, 114);
+  border-radius: 2rem;
+  width: 10rem;
+  height: 5rem;
+  margin-top: 10rem;
+  margin-left: 35rem;
+}
